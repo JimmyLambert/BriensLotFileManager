@@ -1,0 +1,31 @@
+c:\users\developer\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\bin\Release\WpfApplication4.exe.config
+c:\users\developer\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\bin\Release\WpfApplication4.exe
+c:\users\developer\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\bin\Release\WpfApplication4.pdb
+c:\users\developer\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Release\MainWindow.baml
+c:\users\developer\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Release\MainWindow.g.cs
+c:\users\developer\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Release\App.g.cs
+c:\users\developer\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Release\WpfApplication4_MarkupCompile.cache
+c:\users\developer\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Release\WpfApplication4.g.resources
+c:\users\developer\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Release\WpfApplication4.Properties.Resources.resources
+c:\users\developer\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Release\WpfApplication4.csproj.GenerateResource.Cache
+c:\users\developer\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Release\WpfApplication4.exe
+c:\users\developer\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Release\WpfApplication4.pdb
+C:\Users\Developer\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Release\WpfApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Developer\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Release\LotWindow.baml
+C:\Users\Developer\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Release\LotWindow.g.cs
+C:\Users\James\Documents\Dads App\WpfApplication4\WpfApplication4\obj\Release\WpfApplication4.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\Dads App\WpfApplication4\WpfApplication4\obj\Release\LotWindow.baml
+C:\Users\James\Documents\Dads App\WpfApplication4\WpfApplication4\obj\Release\MainWindow.baml
+C:\Users\James\Documents\Dads App\WpfApplication4\WpfApplication4\obj\Release\LotWindow.g.cs
+C:\Users\James\Documents\Dads App\WpfApplication4\WpfApplication4\obj\Release\MainWindow.g.cs
+C:\Users\James\Documents\Dads App\WpfApplication4\WpfApplication4\obj\Release\App.g.cs
+C:\Users\James\Documents\Dads App\WpfApplication4\WpfApplication4\obj\Release\WpfApplication4_MarkupCompile.cache
+C:\Users\James\Documents\Dads App\WpfApplication4\WpfApplication4\obj\Release\WpfApplication4.g.resources
+C:\Users\James\Documents\Dads App\WpfApplication4\WpfApplication4\obj\Release\WpfApplication4.Properties.Resources.resources
+C:\Users\James\Documents\Dads App\WpfApplication4\WpfApplication4\obj\Release\WpfApplication4.csproj.GenerateResource.Cache
+C:\Users\James\Documents\Dads App\WpfApplication4\WpfApplication4\obj\Release\WpfApplication4.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\Dads App\WpfApplication4\WpfApplication4\obj\Release\WpfApplication4.exe
+C:\Users\James\Documents\Dads App\WpfApplication4\WpfApplication4\obj\Release\WpfApplication4.pdb
+C:\Users\James\Documents\Dads App\WpfApplication4\WpfApplication4\bin\Release\WpfApplication4.exe.config
+C:\Users\James\Documents\Dads App\WpfApplication4\WpfApplication4\bin\Release\WpfApplication4.exe
+C:\Users\James\Documents\Dads App\WpfApplication4\WpfApplication4\bin\Release\WpfApplication4.pdb
